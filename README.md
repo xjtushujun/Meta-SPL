@@ -12,7 +12,7 @@ If you find this code useful in your research then please cite
 ```bash
 @article{shu2020meta,
   title={Meta self-paced learning},
-  author={SHU, Jun and MENG, Deyu and XU, Zongben},
+  author={Shu, Jun and Meng, Deyu and Xu, Zongben},
   journal={SCIENTIA SINICA Informationis},
   year={2020},
   publisher={Science China Press}
