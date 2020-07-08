@@ -1,5 +1,6 @@
 # Meta-SPL (self-paced learning)
 
+Self-paced learning (SPL) is a learning regime inspired by the learning process of humans and animals that gradually incorporates easy to more complex samples into training. Many progresses have been made recently. Current SPL algorithms, however, still exist critical limitations, such as how to determine the age hyper-parameters (especially the age parameters). Some heuristic strategies have been designed through cross-validation, or manually setting these parameters empirically. Such strategies, however, are with low efficiency, short of theoretical evidences, and very hard to be generally applied in practice. To address the above issues, we propose a meta-learning regime for adaptively learning age parameters involved in SPL. Three kinds of typical SPL algorithms are integrated into this regime, and their accuracy and generalization capability are substantiated through regression and classiffication experiments, as compared with conventional SPL paradigms without this adaptive age parameter tuning strategy.
 
 ========================================================================================================================================================
 
